@@ -1,9 +1,11 @@
+👋 Olá, eu sou o Cristiano Godoi!
+💡 Apaixonado pela tecnologia e sempre em busca de novos aprendizados.
 
-- 👋 Hi, I’m @cristianogodoi12
-- 👀 I’m interested in aprender sempre novas tecnologias .      
-- 🌱 I’m currently learning  linguagem de programção  Java.
-- 💞️ I’m looking to collaborate com procedimentos e projeos na empresa onde  trabalho e ajudar pessoas que como eu adoram tecnologia.
-- 📫  Voce pode me contatar via email no Cristiano.godoi10@hotmail.com
-<!---
-cristianogodoi12/cristianogodoi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🚀 Sobre mim
+🎯 Atualmente aprimorando minhas habilidades em Análise de Dados.
+🔍 Interesse especial em dados, programação e tecnologia.
+🤝 Busco colaborar em projetos e compartilhar conhecimento na empresa onde trabalho.
+🛠 Experiência em suporte técnico, análise de dados e gestão de incidentes.
+📫 Como me encontrar
+✉️ E-mail: cristiano.godoi10@hotmail.com
+🔗 LinkedIn linkedin.com/in/cristiano-godoi-franciscano-gestão-de-incidentes-operações-de-missão-crítica-25508683
