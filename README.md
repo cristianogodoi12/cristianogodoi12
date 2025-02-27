@@ -1,6 +1,5 @@
 👋 Olá, eu sou o Cristiano Godoi!
 💡 Apaixonado pela tecnologia e sempre em busca de novos aprendizados.
-
 🚀 Sobre mim
 🎯 Atualmente aprimorando minhas habilidades em Análise de Dados.
 🔍 Interesse especial em dados, programação e tecnologia.
